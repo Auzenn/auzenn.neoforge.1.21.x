@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.auzenn.goated;
 
 import java.util.List;
 import java.util.Set;
